@@ -40,4 +40,4 @@ export class Social {
 <code><img height="50" src="./.github/linux-1.svg"></code>
 <code><img height="50" src="./.github/postgresql.svg"></code>
 
-#### <img height="15" src="./.github/save.svg"> EOF
+#### <img height="20" src="./.github/save.svg"> EOF
