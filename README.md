@@ -31,13 +31,13 @@ export class Social {
 
 <code><img height="50" src=".github/python.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1628/1628182.svg"></code>
-<code><img height="55" src=".github/html.svg"></code>
-<code><img height="50" src=".github/css.svg"></code>
-<code><img height="50" src=".github/javascript.svg"></code>
-<code><img height="50" src=".github/react.svg"></code>
-<code><img height="50" src=".github/nodejs.svg"></code>
-<code><img height="50" src=".github/flutter.svg"></code>
-<code><img height="50" src=".github/linux-1.svg"></code>
-<code><img height="50" src=".github/postgresql.svg"></code>
+<code><img height="55" src="./.github/html.svg"></code>
+<code><img height="50" src="./.github/css.svg"></code>
+<code><img height="50" src="./.github/javascript.svg"></code>
+<code><img height="50" src="./.github/react.svg"></code>
+<code><img height="50" src="./.github/nodejs.svg"></code>
+<code><img height="50" src="./.github/flutter.svg"></code>
+<code><img height="50" src="./.github/linux-1.svg"></code>
+<code><img height="50" src="./.github/postgresql.svg"></code>
 
 #### <img height="20" src="./.github/save.svg"> EOF
