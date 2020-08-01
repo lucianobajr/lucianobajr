@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there! I'm Luciano Belo <img height="30" src=".github/wave.gif"></h1>
+<h1 align="center"> Hi there! I'm Luciano Belo <img height="30" src="https://i.imgur.com/yYqn19R.gif"></h1>
 
 ---
 
@@ -29,15 +29,15 @@ export class Social {
 
 **Languages and Tools:** 
 
-<code><img height="50" src=".github/python.svg"></code>
+<code><img height="50" src="https://svgshare.com/i/NQC.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1628/1628182.svg"></code>
-<code><img height="55" src="./.github/html.svg"></code>
-<code><img height="50" src="./.github/css.svg"></code>
-<code><img height="50" src="./.github/javascript.svg"></code>
-<code><img height="50" src="./.github/react.svg"></code>
-<code><img height="50" src="./.github/nodejs.svg"></code>
-<code><img height="50" src="./.github/flutter.svg"></code>
-<code><img height="50" src="./.github/linux-1.svg"></code>
-<code><img height="50" src="./.github/postgresql.svg"></code>
+<code><img height="55" src="https://svgshare.com/i/NQi.svg"></code>
+<code><img height="50" src="https://svgshare.com/i/NQt.svg"></code>
+<code><img height="50" src="https://svgshare.com/i/NQj.svg"></code>
+<code><img height="50" src="https://svgshare.com/i/NQu.svg"></code>
+<code><img height="50" src="https://svgshare.com/i/NSR.svg"></code>
+<code><img height="50" src="https://svgshare.com/i/NRM.svg"></code>
+<code><img height="50" src="https://svgshare.com/i/NRu.svg"></code>
+<code><img height="50" src="https://svgshare.com/i/NRN.svg"></code>
 
-#### <img height="20" src="./.github/save.svg"> EOF
+#### <img height="20" src="https://svgshare.com/i/NQv.svg"> EOF
