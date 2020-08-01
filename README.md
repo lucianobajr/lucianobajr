@@ -37,7 +37,7 @@ export class Social {
 <code><img height="50" src="./.github/react.svg"></code>
 <code><img height="50" src="./.github/nodejs.svg"></code>
 <code><img height="50" src="./.github/flutter.svg"></code>
-<code><img height="50" src="./.github/linux.svg"></code>
+<code><img height="50" src="./.github/linux-1.svg"></code>
 <code><img height="50" src="./.github/postgresql.svg"></code>
 
-##### 💾 EOF
+#### <img height="15" src="./.github/save.svg"> EOF
