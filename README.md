@@ -11,7 +11,7 @@ export class Info {
   school: string = 'Federal University of Viçosa'
   occupation: string = 'aspiring in Web Development and  Student'
   freetime: string[] = ['Gym', 'Musician', 'Draw']
-  musical_interest_years: number[] = any
+  musical_interests: number[] = any
 
 }
 
