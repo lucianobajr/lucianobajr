@@ -73,7 +73,6 @@ Most of what I build starts as a hard problem I want to reason through properly:
 ### Organizations
 
 <p>
-  <a href="https://github.com/ArthemisCodeLeague"><img src="https://img.shields.io/badge/@ArthemisCodeLeague-181717?style=flat-square&logo=github&logoColor=white" alt="ArthemisCodeLeague"/></a>
   <a href="https://github.com/endurance-lang"><img src="https://img.shields.io/badge/@endurance--lang-181717?style=flat-square&logo=github&logoColor=white" alt="endurance-lang"/></a>
   <a href="https://github.com/panela-cheia"><img src="https://img.shields.io/badge/@panela--cheia-181717?style=flat-square&logo=github&logoColor=white" alt="panela-cheia"/></a>
 </p>
