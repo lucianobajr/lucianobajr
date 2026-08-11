@@ -66,10 +66,6 @@ Most of what I build starts as a hard problem I want to reason through properly:
   <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucianobajr&layout=compact&hide_border=true&theme=default" alt="Top languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucianobajr&hide_border=true&theme=default" alt="GitHub streak stats"/>
-</p>
-
 ### Organizations
 
 <p>
